@@ -39,7 +39,7 @@ Once you have the required tools installed, follow these steps to install the Ba
     mvn spring-boot:run
     ```
 5. Explore the Application: Once the application is up and running, open your web browser and access it at: `http://localhost:8080`
-6. Access API Documentation: Additionally, you can explore the API documentation by navigating to: `http://localhost:8080/swagger-ui.html`. This provides detailed insights into the available API endpoints and functionalities.
+6. Access API Documentation: Additionally, you can explore the API documentation by navigating to: `http://localhost:8080/BANKMS/swagger-ui.html`. This provides detailed insights into the available API endpoints and functionalities.
 
 
 ## Technologies Used
